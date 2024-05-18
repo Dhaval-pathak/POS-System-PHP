@@ -1,5 +1,3 @@
-**Log on to codeastro.com for more projects!***
-
 **Database Name: posystem**
 
 
@@ -9,6 +7,6 @@
 **Admin Login Details**
 
 Username: admin
-Password: codeastro
+Password: 123456
 
 
